@@ -29,7 +29,7 @@
 
    <div>
     <h2>Class Seating Generator </h2>
-      <p> Our Class Seating feature generates class seating arrangements with the children entered into the user's classlist. The generator takes into account the typ eof positioning of desks, (rows, groups, pairs, etc.) and can take into account special requests such as students who should not be sat next to eachother.
+      <p> Our Class Seating feature generates class seating arrangements with the children entered into the user's classlist. The generator takes into account the type of positioning of desks, (rows, groups, pairs, etc.) and can take into account special requests such as students who should not be sat next to eachother.
       </p>
   </div>
 
